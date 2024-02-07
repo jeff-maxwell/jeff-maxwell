@@ -1,1 +1,1 @@
-# This is a test this is only test
+# Jeff Maxwell (Professor Oklahoma City University)
