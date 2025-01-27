@@ -10,5 +10,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeff-maxwell)](https://git.io/streak-stats)
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java)](https://jeffmaxwell.com)
 
