@@ -16,5 +16,5 @@ public class Jeff {}
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jeff-maxwell)](https://git.io/streak-stats)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=py,js,html,css,java,angular,debian,docker,dotnet,github,idea,kali,linux,mongodb,mysql,nodejs,postgres,raspberrypi,react,sqlite,solidity,swift,ts,ubuntu,unity,vim,vscode,windows,)](https://jeffmaxwell.com)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,angular,debian,docker,dotnet,github,idea,kali,linux,mongodb,mysql,nodejs,postgres,raspberrypi,react,sqlite,solidity,swift,ts,py,ubuntu,unity,vim,vscode,windows,)](https://jeffmaxwell.com)
 
